@@ -1,0 +1,24 @@
+{
+  "name": "price-monitor-app",
+  "version": "1.0.0",
+  "description": "Simple app for price monitoring",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanmareines/ap-price-monitor.git"
+  },
+  "author": "Alan Mareines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanmareines/ap-price-monitor/issues"
+  },
+  "homepage": "https://github.com/alanmareines/ap-price-monitor#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^10.0.0"
+  }
+}
